@@ -2,9 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-- <b>C# (.NET Desktop Applications)</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Cirby28/Sentinel-Lab)
+  - [Active Directory Bulk User Creation](https://github.com/Cirby28/Active-Directory-Bulk-User-Creation)
 
 <h2> 🤳 Connect with me:</h2>
 
