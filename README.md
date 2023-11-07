@@ -2,8 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Cirby28/Sentinel-Lab)
-  - [Active Directory Bulk User Creation](https://github.com/Cirby28/Active-Directory-Bulk-User-Creation)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion] (https://github.com/Cirby28/Sentinel-Lab) <br />
+  - [Active Directory Bulk User Creation] (https://github.com/Cirby28/Active-Directory-Bulk-User-Creation)<br />
+  - [SOC Home Malware Lab Using LimaCharlie EDR] (https://github.com/Cirby28/SOC-Home-Lab-Lima-Charlie)<br />
+  - [Personal Website Made Using Visual Studio Code] (https://github.com/Cirby28/cirby28.github.io)<br />
+  <br />
 
 <h2> 🤳 Connect with me:</h2>
 
