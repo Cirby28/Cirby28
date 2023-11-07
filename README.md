@@ -1,18 +1,18 @@
 <h1>Hi, I'm Carl! <br/><a href="https://github.com/Cirby28">Aspiring Programmer</a>, <a href="https://www.linkedin.com/in/carl-lee-irby-jr/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@cj28972">YouTuber</a></h1>
 
-<h2>👨🏾‍💼 Cybersecurity Projects:</h2>
+<h2> 👨🏾‍💼 Cybersecurity Projects:</h2>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion] (https://github.com/Cirby28/Sentinel-Lab) <br />
   - [Active Directory Bulk User Creation] (https://github.com/Cirby28/Active-Directory-Bulk-User-Creation)<br />
   
-<h2>🕵🏽‍♂️ EDR</h2>
+<h2> 🕵🏽‍♂️ EDR</h2>
   - [SOC Malware Lab Using LimaCharlie EDR] (https://github.com/Cirby28/SOC-Home-Lab-Lima-Charlie)<br />
  
-<h2>👨🏾‍💻 HTML</h2>
+<h2> 👨🏾‍💻 HTML</h2>
   - [Personal Website Made In Visual Studio Code] (https://github.com/Cirby28/cirby28.github.io)<br />
   <br />
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳🏽 Connect with me:</h2>
 
 [<img align="left" alt="CarlIrby | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="CarlIrby | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
