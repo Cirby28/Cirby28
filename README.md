@@ -5,10 +5,10 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion] (https://github.com/Cirby28/Sentinel-Lab) <br />
   - [Active Directory Bulk User Creation] (https://github.com/Cirby28/Active-Directory-Bulk-User-Creation)<br />
   
-  <h2>EDR</h2>
+<h2>🕵️ EDR</h2>
   - [SOC Malware Lab Using LimaCharlie EDR] (https://github.com/Cirby28/SOC-Home-Lab-Lima-Charlie)<br />
  
-  <h2>HTML</h2>
+<h2>👨🏾‍💻 HTML</h2>
   - [Personal Website Made In Visual Studio Code] (https://github.com/Cirby28/cirby28.github.io)<br />
   <br />
 
