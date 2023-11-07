@@ -10,7 +10,7 @@
 [<img align="left" alt="CarlIrby | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="CarlIrby | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/@cj28972
 [linkedin]: https://linkedin.com/in/carl-lee-irby-jr
 
 <!--
