@@ -1,4 +1,4 @@
-<h1>Hi, I'm Carl! <br/><a href="https://github.com/Cirby28">Aspiring Programmer</a>, <a href="https://www.linkedin.com/in/carl-lee-irby-jr/">Cybersecurity Professional</a>, <a href="">YouTuber</a></h1>
+<h1>Hi, I'm Carl! <br/><a href="https://github.com/Cirby28">Aspiring Programmer</a>, <a href="https://www.linkedin.com/in/carl-lee-irby-jr/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@cj28972">YouTuber</a></h1>
 
 <h2>👨🏾‍💼 Cybersecurity Projects:</h2>
 - <b>PowerShell</b>
