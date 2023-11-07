@@ -10,7 +10,7 @@
  
 <h2> 👨🏾‍💻 HTML</h2>
   - [Personal Website Made In Visual Studio Code] (https://github.com/Cirby28/cirby28.github.io)<br />
-  <br />
+  - Link to website (https://cirby28.github.io/) <br />
 
 <h2> 🤳🏽 Connect with me:</h2>
 
