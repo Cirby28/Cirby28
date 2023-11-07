@@ -1,11 +1,11 @@
 <h1>Hi, I'm Carl! <br/><a href="https://github.com/Cirby28">Aspiring Programmer</a>, <a href="https://www.linkedin.com/in/carl-lee-irby-jr/">Cybersecurity Professional</a>, <a href="">YouTuber</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨🏾‍💼 Cybersecurity Projects:</h2>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion] (https://github.com/Cirby28/Sentinel-Lab) <br />
   - [Active Directory Bulk User Creation] (https://github.com/Cirby28/Active-Directory-Bulk-User-Creation)<br />
   
-<h2>🕵️ EDR</h2>
+<h2>🕵🏽‍♂️ EDR</h2>
   - [SOC Malware Lab Using LimaCharlie EDR] (https://github.com/Cirby28/SOC-Home-Lab-Lima-Charlie)<br />
  
 <h2>👨🏾‍💻 HTML</h2>
